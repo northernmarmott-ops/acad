@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_saad.jpeg"
   name             : "Ocean Modeller"
   #pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-6326-4212"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Muhammad-Saad-125"
   scopus           : # URL
   zotero           : # URL
