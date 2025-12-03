@@ -28,8 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Bologna, Italy"
-  employer         : "University of Bologna"
-  employer         : "CMCC"
+  employer: >
+  CMCC
+  University of Bologna
   uri              : # URL
   email            : "muhammad.saad@cmcc.it" 
 
