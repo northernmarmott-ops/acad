@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_saad.jpeg"
+  avatar           : "photosaad.jpeg"
   name             : "Ocean Modeller"
   #pronouns         : # example: "she/her"  
   bio              : "I am an Ocean Modeller and my work focus on Interannual and decadal variability of the Mediterranean Sea"
